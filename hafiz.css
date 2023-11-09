@@ -1,0 +1,20 @@
+img{
+    margin-left: 100px;
+    /* margin-top: -200px; */
+    height: 450PX;
+}
+p{
+    font-size: xx-large;
+
+}
+video{
+    width: 500px;
+}
+.haha{
+    display: flex;
+    flex-direction: row;
+}
+body{
+    background-color: blueviolet;
+}
+
